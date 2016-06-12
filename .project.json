@@ -1,0 +1,7 @@
+{
+  "hcpdeploy": {
+    "account": "i319103trial",
+    "name": "myapp",
+    "lastVersionWeTriedToDeploy": "1.0.0"
+  }
+}
